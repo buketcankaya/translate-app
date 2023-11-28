@@ -17,7 +17,7 @@ react-icons: A library providing a collection of popular icons for use in React 
 
 sass: A preprocessor scripting language that is interpreted or compiled into CSS, facilitating the styling of React components with enhanced features.
 
-![](../translate.gif)
+![](./vite-project/src/assets/translate.gif)
 
 
 
